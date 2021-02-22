@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/start_game2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/background"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        app:srcCompat="@drawable/main_doit" />
+
+    <LinearLayout
+        android:id="@+id/player1_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="650sp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/player1"
+            android:layout_width="150sp"
+            android:layout_height="wrap_content"
+            android:padding="5sp"
+            android:layout_margin="10sp"
+            android:textSize="30sp" />
+
+        <TextView
+            android:id="@+id/score1"
+            android:layout_width="150sp"
+            android:layout_height="wrap_content"
+            android:padding="5sp"
+            android:layout_margin="10sp"
+            android:textSize="30sp"
+        />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/player2_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80sp"
+        android:layout_marginBottom="580sp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/player2"
+            android:layout_width="150sp"
+            android:layout_height="wrap_content"
+            android:padding="5sp"
+            android:layout_margin="10sp"
+            android:textSize="30sp"
+            />
+
+        <TextView
+            android:id="@+id/score2"
+            android:layout_width="150sp"
+            android:layout_height="wrap_content"
+            android:padding="5sp"
+            android:layout_margin="10sp"
+            android:textSize="30sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/chronometer_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="10sp"
+        android:layout_marginBottom="700sp"
+        android:orientation="horizontal"
+        android:padding="4dp">
+
+        <TextView
+            android:id="@+id/chronometer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10sp"
+            android:layout_marginTop="10sp"
+            android:layout_marginRight="10sp"
+            android:layout_marginBottom="10sp"
+            android:countDown="true"
+            android:gravity="center"
+            android:padding="5sp"
+            android:textColor="@color/white"
+            android:textSize="40sp"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/todo_layout"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_marginTop="300dp"
+        android:layout_marginBottom="300dp"
+        android:orientation="vertical"
+        android:padding="8sp">
+
+        <TextView
+            android:id="@+id/todo"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="2sp"
+            android:layout_marginBottom="2sp"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:textSize="35sp"
+            />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="600dp"
+        android:layout_marginBottom="120dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/yes"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="200dp"
+            android:layout_marginTop="20dp"
+            app:srcCompat="@drawable/yes" />
+
+        <ImageView
+            android:id="@+id/no"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="70dp"
+            android:layout_marginTop="20dp"
+            app:srcCompat="@drawable/no" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/game_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="20dp"
+        android:orientation="horizontal"
+        android:padding="4dp">
+
+        <Button
+            android:id="@+id/buttonBack"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:background="@drawable/button_stroke_black95_press"
+            android:paddingLeft="25dp"
+            android:paddingRight="25dp"
+            android:text="@string/btn_back"
+            android:textColor="@color/white95"
+            android:textSize="30sp" />
+
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">DOIT</string>
+    <string name="start2">2 игрока</string>
+    <string name="start3">3 игрока</string>
+    <string name="start4">4 игрока</string>
+    <string name="btn_back">Назад</string>
+    <string name="pl1">Введите имя игрока 1:</string>
+    <string name="pl2">Введите имя игрока 2:</string>
+    <string name="pl3">Введите имя игрока 3:</string>
+    <string name="pl4">Введите имя игрока 4:</string>
+    <string name="player">Игрок</string>
+    <string name="p1">Игрок 1</string>
+    <string name="p2">Игрок 2</string>
+    <string name="p3">Игрок 3</string>
+    <string name="p4">Игрок 4</string>
+    <string-array name="todo_list">
+        <item> Задержи дыхание </item>
+        <item> Придумай своё слово </item>
+        <item> Посчитай до 50 </item>
+        <item> Обними кого-нибудь </item>
+        <item> Выпей литр воды </item>
+        <item> Сделай 20 приседаний </item>
+        <item> Назови 15 любых слов </item>
+        <item> Улыбайся :) </item>
+        <item> Пой песню </item>
+        <item> Расскажи стихотворение </item>
+        <item> Стой на одной ноге </item>
+        <item> Расскажи шутку </item>
+        <item> Притворись домашним питомцем </item>
+        <item> Покорми другого игрока </item>
+        <item> Расскажи свой секрет </item>
+        <item> Замри </item>
+        <item> Держи руки вверху </item>
+        <item> Назови 10 иностранных имён </item>
+        <item> Не моргай </item>
+        <item> Притворись младенцем </item>
+        <item> Нажми на галочку </item>
+        <item> Смейся </item>
+        <item> Борись </item>
+        <item> Широко открой глаза</item>
+        <item> Беги на месте</item>
+        <item> Свисти </item>
+        <item> Стой на руках </item>
+        <item> Покажи мускулы </item>
+        <item> Придумай стихотворение или песню </item>
+        <item> Подозрительно смотри в глаза другому игроку </item>
+        <item> Громко крикни </item>
+        <item> Присядь на одной ноге </item>
+    </string-array>
+</resources>

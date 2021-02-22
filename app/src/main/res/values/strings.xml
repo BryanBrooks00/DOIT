@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">DOIT</string>
+    <string name="start2">2 players</string>
+    <string name="start3">3 players</string>
+    <string name="start4">4 players</string>
+    <string name="btn_back">Back</string>
+    <string name="pl1">Player 1 :</string>
+    <string name="pl2">Player 2:</string>
+    <string name="pl3">Player 3:</string>
+    <string name="pl4">Player 4:</string>
+    <string name="player">Player</string>
+    <string name="p1">Player 1 :</string>
+    <string name="p2">Player 2:</string>
+    <string name="p3">Player 3:</string>
+    <string name="p4">Player 4:</string>
+    <string-array name="todo_list">
+        <item>Do not breathe</item>
+        <item>Come up with your own word</item>
+        <item>Count to 50</item>
+        <item>Hug somebody</item>
+        <item>Drink some water</item>
+        <item>Do 20 squats</item>
+        <item>Say 15 word</item>
+        <item>Smile :)</item>
+        <item>Sing a song</item>
+        <item>Tell a poem</item>
+        <item>Stay on one leg</item>
+        <item>Tell a joke</item>
+        <item>Be like a pet</item>
+        <item>Feed another player</item>
+        <item>Tell a secret</item>
+        <item>Freeze</item>
+        <item>Keep your hand up</item>
+        <item>Say 10 foreign names</item>
+        <item>Do not blink</item>
+        <item>Be like a baby</item>
+        <item>Click on the checkmark</item>
+        <item>Laugh </item>
+        <item>Fight </item>
+        <item>Open your eyes wide</item>
+        <item>Run while standing still</item>
+        <item>Whistle</item>
+        <item>Stand on your hands</item>
+        <item>Show your muscles</item>
+        <item>Write a poem or song</item>
+        <item>Look suspiciously in the eyes of another player</item>
+        <item>Shout out loud</item>
+        <item>Sit down on one leg</item>
+    </string-array>
+    </resources>
