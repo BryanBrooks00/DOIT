@@ -1,6 +1,6 @@
 # DOIT
 Privacy Policy
-Sergey Blohin built the DO IT app as a Free app. This SERVICE is provided by Sergey Blohin at no cost and is intended for use as is.
+Siarhei Blakhin built the DO IT app as a Free app. This SERVICE is provided by Sergey Blohin at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -58,4 +58,4 @@ This policy is effective as of 2021-02-16
 
 Contact Us
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at sergey.blohin.00@gmail.com.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at darwin.apps.dev@gmail.com.
